@@ -76,7 +76,7 @@
   line-height: inherit;
 }
 .fa-border {
-  border: 0.08em solid #eee;
+  border: 0.08em solid rgb(238, 20, 20);
   border-radius: 0.1em;
   padding: 0.2em 0.25em 0.15em;
 }
@@ -172,7 +172,7 @@
   font-size: 2em;
 }
 .fa-inverse {
-  color: #fff;
+  color: #da1313;
 }
 .fa-500px:before {
   content: "\f26e";
